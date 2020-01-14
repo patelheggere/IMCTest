@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">IMCTest</string>
+    <string name="welcome">Welcome to IMC</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="registration">Registration</string>
+    <string name="mobile">Enter Mobile no</string>
+    <string name="login">Login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone">Enter Phone No.</string>
+    <string name="name_required">First Name Required</string>
+    <string name="lnmae_correct">Enter Last Name</string>
+    <string name="enter_pwd">Enter Password</string>
+    <string name="email_correct">Enter Correct Email</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="name">First Name</string>
+    <string name="register">Register</string>
+    <string name="signup">Not Registered? click here</string>
+    <string name="sigin">have you registered? click here</string>
+    <string name="tell_us_about_you">Tell us about you</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="lname">Last name</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="title_profile">Profile</string>
+    <string name="fname">Name:</string>
+    <string name="lon">Longitude:</string>
+    <string name="lat">Latitude:</string>
+    <string name="email_e">Email:</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="time_cant_less">Time Can\'t be less than current time</string>
+    <string name="invalid">Invalid credential or Not registered</string>
+    <string name="logout">Logout</string>
+    <string name="no_gps">Geo Latitude and Longitude is not availble</string>
+    <string name="not_able_to_store">Not able to schedule at this time</string>
+    <string name="events_scheduled">Events Scheduled</string>
+    <string name="no_data">No Events scheduled</string>
+    <string name="unable_to_store_user">Already this email is registered</string>
+
+
+</resources>
