@@ -22,7 +22,6 @@ import com.patelheggere.imctest.base.BaseActivity;
 import com.patelheggere.imctest.data.DBManager;
 import com.patelheggere.imctest.data.DatabaseHelper;
 import com.patelheggere.imctest.location.GPSTracker;
-import com.patelheggere.imctest.models.LoginModel;
 import com.patelheggere.imctest.models.UserDetails;
 import com.patelheggere.imctest.utils.AppUtils;
 import com.patelheggere.imctest.utils.SharedPrefsHelper;
@@ -36,10 +35,7 @@ public class RegistrationActivity extends BaseActivity {
 
     private static final String TAG = "RegistrationActivity";
     private ActionBar mActionBar;
-    private Spinner spinner;
     private TextInputEditText mTextInputEditTextFName, mTextInputEditTextLName, mTextInputEditTextEmailLogin, mTextInputEditTextEmail, mTextInputEditTextPwd, mTextInputEditTextPwdLogin;
-    private String course;
-    private ArrayAdapter<String> adapter;
     private Button mRegisterSubmit, mButtonLoginSubmit, mButtonLogin, mButtonRegister;
     private View mRegisterView, mLoginView;
     private ProgressBar mProgressBar;
